@@ -14,9 +14,9 @@
 
 ### Приложения
 
-- Заготовщик ЛаТеХ образцов (https://github.com/kmhl/latexnar).
+- Заготовщик ЛаТеХ образцов (https://github.com/kozachkov/latexnar).
 
 ### Руководства
 
-- Руководство для перл-разработчиков и для разработчиков Перла (https://kmhl.github.io/doperl/).
-- Словарь, которого так не хватает в мире разработки (https://github.com/kmhl/obrusit).
+- Руководство для перл-разработчиков и для разработчиков Перла (https://kozachkov.github.io/doperl/).
+- Словарь, которого так не хватает в мире разработки (https://github.com/kozachkov/obrusit).
