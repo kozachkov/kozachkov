@@ -21,4 +21,5 @@
 - Руководство для перл-разработчиков и для разработчиков Перла (https://kozachkov.github.io/doperl/).
 - Руководство по разработке на языке оболочки (bash) (https://kozachkov.github.io/bashim/).
 - Руководство по вёрстку (https://kozachkov.github.io/vidok/).
+- Руководство про низкоуровневую разработку (https://kozachkov.github.io/niz/).
 - Словарь, которого так не хватает в мире разработки (https://github.com/kozachkov/obrusit).
