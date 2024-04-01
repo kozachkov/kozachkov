@@ -23,4 +23,5 @@
 - Руководство по вёрстку (https://kozachkov.github.io/vidok/).
 - Руководство про низкоуровневую разработку (https://kozachkov.github.io/niz/).
 - Руководство про разработку на Си (https://kozachkov.github.io/nasi/).
+- Руководство про разработку на Ходуне (Go) (https://kozachkov.github.io/hodun/).
 - Словарь, которого так не хватает в мире разработки (https://github.com/kozachkov/obrusit).
