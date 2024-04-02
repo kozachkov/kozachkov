@@ -24,4 +24,5 @@
 - Руководство про низкоуровневую разработку (https://kozachkov.github.io/niz/).
 - Руководство про разработку на Си (https://kozachkov.github.io/nasi/).
 - Руководство про разработку на Ходуне (Go) (https://kozachkov.github.io/hodun/).
+- Руководство про разработку на Яваписи (JavaScript) (https://kozachkov.github.io/javapis/).
 - Словарь, которого так не хватает в мире разработки (https://github.com/kozachkov/obrusit).
