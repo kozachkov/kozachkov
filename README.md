@@ -27,4 +27,5 @@
 - Руководство про разработку на Яваписи (JavaScript) (https://kozachkov.github.io/javapis/).
 - Руководство по работе со складом данных и языком запросов (Database & SQL) (https://kozachkov.github.io/sklad/).
 - О работе (https://kozachkov.github.io/trud/).
+- О вычислительной науке (https://kozachkov.github.io/dano/).
 - Словарь, которого так не хватает в мире разработки (https://github.com/kozachkov/obrusit).
