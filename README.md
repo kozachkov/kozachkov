@@ -34,4 +34,5 @@
 - Руководство по работе со складом данных и языком запросов (Database & SQL) (https://kozachkov.github.io/sklad/).
 - О работе (https://kozachkov.github.io/trud/).
 - О вычислительной науке (https://kozachkov.github.io/dano/).
+- Использование гита (https://kozachkov.github.io/ogite/).
 - Словарь, которого так не хватает в мире разработки (https://github.com/kozachkov/obrusit).
