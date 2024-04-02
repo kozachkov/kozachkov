@@ -27,6 +27,7 @@
 - Руководство по вёрстку (https://kozachkov.github.io/vidok/).
 - Руководство про низкоуровневую разработку (https://kozachkov.github.io/niz/).
 - Руководство про разработку на Си (https://kozachkov.github.io/nasi/).
+- Руководство про разработку на Рэ (R) (https://kozachkov.github.io/nare/).
 - Руководство про разработку на Ходуне (Go) (https://kozachkov.github.io/hodun/).
 - Руководство про разработку на Яваписи (JavaScript) (https://kozachkov.github.io/javapis/).
 - Руководство по работе со складом данных и языком запросов (Database & SQL) (https://kozachkov.github.io/sklad/).
