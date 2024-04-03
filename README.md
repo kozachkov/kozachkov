@@ -33,6 +33,7 @@
 - Руководство про разработку на Яваписи (JavaScript) (https://kozachkov.github.io/javapis/).
 - Руководство по работе со складом данных и языком запросов (Database & SQL) (https://kozachkov.github.io/sklad/).
 - О работе (https://kozachkov.github.io/trud/).
+- О разработке (https://kozachkov.github.io/razrabotka/).
 - О сборке (https://kozachkov.github.io/sborka/).
 - О вычислительной науке (https://kozachkov.github.io/dano/).
 - Использование гита (https://kozachkov.github.io/ogite/).
