@@ -14,15 +14,13 @@
    в английском придумали своё название, так придумай его сам и в русском языке.
    Да, это возможно, представь себе!
 
-## Мои разработки
-
-### Приложения
+## Разработки
 
 - Заготовщик ЛаТеХ образцов (https://github.com/kozachkov/latexnar).
 
-### Руководства
+## Руководства
 
-#### Языки предписаний
+### Языки предписаний
 
 - Перла (https://kozachkov.github.io/doperl/).
 - Оболочка (bash) (https://kozachkov.github.io/bashim/).
@@ -35,7 +33,7 @@
 - Явапись (JavaScript) (https://kozachkov.github.io/javapis/).
 - Склады данных и язык запросов (Database & SQL) (https://kozachkov.github.io/sklad/).
 
-#### Работа
+### Работа
 
 - О работе (https://kozachkov.github.io/trud/).
 - О разработке (https://kozachkov.github.io/razrabotka/).
