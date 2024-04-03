@@ -22,16 +22,21 @@
 
 ### Руководства
 
-- Руководство для перл-разработчиков и для разработчиков Перла (https://kozachkov.github.io/doperl/).
-- Руководство по разработке на языке оболочки (bash) (https://kozachkov.github.io/bashim/).
-- Руководство по вёрстку (https://kozachkov.github.io/vidok/).
-- Руководство про низкоуровневую разработку (https://kozachkov.github.io/niz/).
-- Руководство про разработку на Си (https://kozachkov.github.io/nasi/).
-- Руководство про разработку на Рэ (R) (https://kozachkov.github.io/nare/).
-- Руководство про разработку на Ходуне (Go) (https://kozachkov.github.io/hodun/).
-- Руководство про разработку на Раскате (Racket) (https://kozachkov.github.io/raskat/).
-- Руководство про разработку на Яваписи (JavaScript) (https://kozachkov.github.io/javapis/).
-- Руководство по работе со складом данных и языком запросов (Database & SQL) (https://kozachkov.github.io/sklad/).
+#### Языки предписаний
+
+- Перла (https://kozachkov.github.io/doperl/).
+- Оболочка (bash) (https://kozachkov.github.io/bashim/).
+- Вёрстку (https://kozachkov.github.io/vidok/).
+- Низкоуровневая разработку (https://kozachkov.github.io/niz/).
+- Си (https://kozachkov.github.io/nasi/).
+- Рэ (R) (https://kozachkov.github.io/nare/).
+- Ходун (Go) (https://kozachkov.github.io/hodun/).
+- Раскат (Racket) (https://kozachkov.github.io/raskat/).
+- Явапись (JavaScript) (https://kozachkov.github.io/javapis/).
+- Склады данных и язык запросов (Database & SQL) (https://kozachkov.github.io/sklad/).
+
+#### Работа
+
 - О работе (https://kozachkov.github.io/trud/).
 - О разработке (https://kozachkov.github.io/razrabotka/).
 - О сборке (https://kozachkov.github.io/sborka/).
