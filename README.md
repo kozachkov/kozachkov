@@ -33,6 +33,10 @@
 - Явапись (JavaScript) (https://kozachkov.github.io/javapis/).
 - Склады данных и язык запросов (Database & SQL) (https://kozachkov.github.io/sklad/).
 
+### Железо и приложения
+
+- Сотовые разработки (https://kozachkov.github.io/sota/).
+
 ### Работа
 
 - О работе (https://kozachkov.github.io/trud/).
