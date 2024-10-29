@@ -37,6 +37,10 @@
 
 - Сотовые разработки (https://kozachkov.github.io/sota/).
 
+### Сторонние приложения
+
+- Об ОТРС (https://kozachkov.github.io/obotrs/).
+
 ### Работа
 
 - О работе (https://kozachkov.github.io/trud/).
