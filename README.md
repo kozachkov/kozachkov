@@ -16,7 +16,7 @@
 
 ## Разработки
 
-- Заготовщик ЛаТеХ образцов (https://github.com/kozachkov/latexnar).
+- Набор решений для записей (https://github.com/kozachkov/pishi).
 
 ## Руководства
 
